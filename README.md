@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=kinaboot&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=kinaboot&fontSize=70&animation=fadeIn)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
