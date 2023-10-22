@@ -1,6 +1,6 @@
 ## Hi there 👋
-## I wanna make something cool by programming 👍
-## I am growing up as web full stack developer! 🔥
+### I wanna make something cool by programming 👍
+### I am growing up as web full stack developer! 🔥
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=kinaboot&fontSize=70&animation=fadeIn)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -30,4 +30,11 @@
   <a href="https://nodejs.org/">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
   </a>
+</p>
+
+<h3 align="center">🧐 Interested 🧐</h3>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
 </p>
